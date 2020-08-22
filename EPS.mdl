@@ -28734,7 +28734,7 @@ Vensim updates the values of stock variables based on inflows/outflows at the en
 1,243,841,3,0,0,0,0,0,64,0,-1--1--1,,1|(-1980,888)|
 1,244,246,63,4,0,0,22,0,0,0,-1--1--1,,1|(2800,650)|
 1,245,246,71,100,0,0,22,0,0,0,-1--1--1,,1|(2674,650)|
-11,246,50362,2737,650,6,9,34,3,0,0,1,0,0,0,0,0,0,0,0,0
+11,246,51902,2737,650,6,9,34,3,0,0,1,0,0,0,0,0,0,0,0,0
 10,247,New Generation Capacity,2737,681,65,22,40,2,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
 10,248,New Generation Capacity,5095,-431,59,22,8,3,0,4,-1,0,0,0,-1--1--1,192-192-192,|12||0-0-0,0,0,0,0,0,0
 10,249,New Generation Capacity,-1831,1772,65,22,8,2,0,7,-1,0,0,0,128-128-128,192-192-192,|12||128-128-128,0,0,0,0,0,0
@@ -31745,22 +31745,22 @@ We adjust the fraction of non-energy inputs sold to the energy industries based 
 1,237,230,161,0,0,0,0,0,128,0,-1--1--1,,1|(2164,1465)|
 12,238,0,2944,1125,444,42,8,135,0,4,-1,0,0,0,-1--1--1,255-255-128,|12||0-0-0,0,0,0,0,0,0
 The portion of non-energy industries' revenue going to labor (e.g. payments to their workers), to taxes (e.g. sales taxes on their products and corporate and worker income taxes), and to foreign entities (e.g. if the non-energy goods were purchased from abroad rather than from a domestic company) are separated out after the change in nonenergy industry revenue has been totaled across sectors.  Taxes on fuel/energy and special policy lever-driven taxes (and subsidies) are handled here.
-10,239,BAU Process Emissions after CCS,423,750,71,19,8,2,0,3,-1,0,0,0,128-128-128,0-0-0,|0||128-128-128,0,0,0,0,0,0
+10,239,BAU Process Emissions after CCS,423,750,71,19,8,2,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
 10,240,BAU Process Emissions in CO2e,616,750,61,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
 1,241,239,240,0,0,0,0,0,128,0,-1--1--1,,1|(517,750)|
 10,242,BAU Process Emissions in CO2e in Metric Tons,838,750,78,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
 1,243,240,242,0,0,0,0,0,128,0,-1--1--1,,1|(711,750)|
-10,244,BEPEfCT Boolean Exempt Process Emissions from Carbon Tax,838,882,85,28,8,130,0,5,-1,0,0,0,128-128-128,128-192-0,|0||128-128-128,0,0,0,0,0,0
-10,245,QSfCF Quantization Size for Cash Flows,1296,750,70,19,8,2,0,3,-1,0,0,0,128-128-128,0-0-0,|0||128-128-128,0,0,0,0,0,0
-10,246,BENCEfCT Boolean Exempt Non CO2 Emissions from Carbon Tax,1075,882,94,27,8,130,0,5,-1,0,0,0,128-128-128,128-192-0,|0||128-128-128,0,0,0,0,0,0
-10,247,BAU Carbon Tax on Process Emissions by Industry,1075,750,72,28,8,131,0,16,0,0,0,0,-1--1--1,0-0-0,|0|I|0-0-0,0,0,0,0,0,0
+10,244,BEPEfCT Boolean Exempt Process Emissions from Carbon Tax,838,882,85,28,8,130,0,5,-1,0,0,0,128-128-128,128-192-0,|12||128-128-128,0,0,0,0,0,0
+10,245,QSfCF Quantization Size for Cash Flows,1296,750,70,19,8,2,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
+10,246,BENCEfCT Boolean Exempt Non CO2 Emissions from Carbon Tax,1075,882,94,27,8,130,0,5,-1,0,0,0,128-128-128,128-192-0,|12||128-128-128,0,0,0,0,0,0
+10,247,BAU Carbon Tax on Process Emissions by Industry,1075,750,72,28,8,131,0,16,0,0,0,0,-1--1--1,0-0-0,|12|I|0-0-0,0,0,0,0,0,0
 1,248,242,247,0,0,0,0,0,128,0,-1--1--1,,1|(952,750)|
 1,249,244,247,0,0,0,0,0,128,0,-1--1--1,,1|(949,819)|
 1,250,246,247,0,0,0,0,0,128,0,-1--1--1,,1|(1075,823)|
 1,251,245,247,0,0,0,0,0,128,0,-1--1--1,,1|(1193,750)|
-10,252,BCTR BAU Carbon Tax Rate,1296,882,65,19,8,2,0,19,-1,0,0,0,128-128-128,0-0-0,|0|I|128-128-128,0,0,0,0,0,0
-10,253,Carbon Tax on Process Emissions by Industry,1075,451,80,19,8,3,0,16,0,0,0,0,-1--1--1,0-0-0,|0|I|0-0-0,0,0,0,0,0,0
-10,254,Carbon Tax Rate,1296,316,47,19,8,2,0,19,-1,0,0,0,128-128-128,0-0-0,|0|I|128-128-128,0,0,0,0,0,0
+10,252,BCTR BAU Carbon Tax Rate,1296,882,65,19,8,2,0,19,-1,0,0,0,128-128-128,0-0-0,|12|I|128-128-128,0,0,0,0,0,0
+10,253,Carbon Tax on Process Emissions by Industry,1075,451,80,19,8,3,0,16,0,0,0,0,-1--1--1,0-0-0,|12|I|0-0-0,0,0,0,0,0,0
+10,254,Carbon Tax Rate,1296,316,47,19,8,2,0,19,-1,0,0,0,128-128-128,0-0-0,|12|I|128-128-128,0,0,0,0,0,0
 1,255,254,253,0,0,0,0,0,128,0,-1--1--1,,1|(1191,379)|
 1,256,252,247,0,0,0,0,0,128,0,-1--1--1,,1|(1199,824)|
 1,257,247,49,0,0,0,0,0,128,0,-1--1--1,,1|(1075,683)|
@@ -33057,7 +33057,7 @@ Changes in crude exports due to changes in secondary production should not be ap
 Embedded CO2 in Exported Fuels
 10,517,BAU District Heat and Hydrogen Fuel Total Tax Amount per Unit Energy,980,1634,129,24,8,131,0,16,0,0,0,0,-1--1--1,0-0-0,|12|I|0-0-0,0,0,0,0,0,0
 10,518,District Heat and Hydrogen Fuel Total Tax Amount per Unit Energy,2685,1634,119,20,8,131,0,16,0,0,0,0,-1--1--1,0-0-0,|12|I|0-0-0,0,0,0,0,0,0
-10,519,BSoFPtiT BAU Share of Fuel Price that is Carbon Tax,326,926,64,28,8,131,0,4,0,0,0,0,-1--1--1,192-128-192,|0||0-0-0,0,0,0,0,0,0
+10,519,BSoFPtiT BAU Share of Fuel Price that is Carbon Tax,326,926,64,28,8,131,0,4,0,0,0,0,-1--1--1,192-128-192,|12||0-0-0,0,0,0,0,0,0
 10,520,BAU Transportation Share of Fuel Price that is Carbon Tax,326,1028,66,30,8,131,0,0,0,0,0,0,0,0,0,0,0,0
 10,521,BAU Electricity Share of Fuel Price that is Carbon Tax,326,1178,62,29,8,131,0,0,0,0,0,0,0,0,0,0,0,0
 10,522,BAU Buildings Share of Fuel Price that is Carbon Tax,326,1326,62,28,8,131,0,0,0,0,0,0,0,0,0,0,0,0
@@ -33098,11 +33098,11 @@ Embedded CO2 in Exported Fuels
 10,557,BAU Buildings Fuel Cost per Unit Energy,1324,1240,72,19,8,2,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
 10,558,BAU Industrial Fuel Cost per Unit Energy,1324,1394,72,19,8,2,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
 10,559,BAU District Heat and Hydrogen Fuel Cost per Unit Energy,1324,1541,112,25,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
-10,560,BAU Transportation Fuel Other Tax Amount per Unit Energy,1324,1028,103,21,8,131,0,4,0,0,0,0,-1--1--1,192-192-192,|0||0-0-0,0,0,0,0,0,0
-10,561,BAU Electricity Fuel Other Tax Amount per Unit Energy,1324,1178,92,19,8,131,0,4,0,0,0,0,-1--1--1,192-192-192,|0||0-0-0,0,0,0,0,0,0
-10,562,BAU Buildings Fuel Other Tax Amount per Unit Energy,1324,1326,92,19,8,131,0,4,0,0,0,0,-1--1--1,192-192-192,|0||0-0-0,0,0,0,0,0,0
-10,563,BAU Industrial Fuel Other Tax Amount per Unit Energy,1324,1475,92,19,8,131,0,4,0,0,0,0,-1--1--1,192-192-192,|0||0-0-0,0,0,0,0,0,0
-10,564,BAU District Heat and Hydrogen Fuel Other Tax Amount per Unit Energy,1324,1634,82,28,8,131,0,4,0,0,0,0,-1--1--1,192-192-192,|0||0-0-0,0,0,0,0,0,0
+10,560,BAU Transportation Fuel Other Tax Amount per Unit Energy,1324,1028,103,21,8,131,0,4,0,0,0,0,-1--1--1,192-192-192,|12||0-0-0,0,0,0,0,0,0
+10,561,BAU Electricity Fuel Other Tax Amount per Unit Energy,1324,1178,92,19,8,131,0,4,0,0,0,0,-1--1--1,192-192-192,|12||0-0-0,0,0,0,0,0,0
+10,562,BAU Buildings Fuel Other Tax Amount per Unit Energy,1324,1326,92,19,8,131,0,4,0,0,0,0,-1--1--1,192-192-192,|12||0-0-0,0,0,0,0,0,0
+10,563,BAU Industrial Fuel Other Tax Amount per Unit Energy,1324,1475,92,19,8,131,0,4,0,0,0,0,-1--1--1,192-192-192,|12||0-0-0,0,0,0,0,0,0
+10,564,BAU District Heat and Hydrogen Fuel Other Tax Amount per Unit Energy,1324,1634,82,28,8,131,0,4,0,0,0,0,-1--1--1,192-192-192,|12||0-0-0,0,0,0,0,0,0
 1,565,550,560,0,0,0,0,0,128,0,-1--1--1,,1|(1484,1028)|
 1,566,551,561,0,0,0,0,0,128,0,-1--1--1,,1|(1482,1178)|
 1,567,552,562,0,0,0,0,0,128,0,-1--1--1,,1|(1482,1326)|
@@ -33123,13 +33123,13 @@ Embedded CO2 in Exported Fuels
 1,582,562,86,0,0,0,0,0,128,0,-1--1--1,,1|(1162,1326)|
 1,583,563,87,0,0,0,0,0,128,0,-1--1--1,,1|(1165,1475)|
 1,584,564,517,0,0,0,0,0,128,0,-1--1--1,,1|(1182,1634)|
-10,585,BAU Transportation Fuel Carbon Tax Amount per Unit Energy,2032,1028,111,24,8,130,0,7,-1,0,0,0,128-128-128,192-192-192,|0||128-128-128,0,0,0,0,0,0
-10,586,Transportation Fuel Carbon Tax Amount per Unit Energy,2344,1028,104,22,8,131,0,16,0,0,0,0,-1--1--1,0-0-0,|0|I|0-0-0,0,0,0,0,0,0
+10,585,BAU Transportation Fuel Carbon Tax Amount per Unit Energy,2032,1028,111,24,8,130,0,7,-1,0,0,0,128-128-128,192-192-192,|12||128-128-128,0,0,0,0,0,0
+10,586,Transportation Fuel Carbon Tax Amount per Unit Energy,2344,1028,104,22,8,131,0,16,0,0,0,0,-1--1--1,0-0-0,|12|I|0-0-0,0,0,0,0,0,0
 1,587,585,586,0,0,0,0,0,128,0,-1--1--1,,1|(2184,1028)|
-10,588,Transportation Fuels Added Carbon Tax Amount per Unit Energy,2344,926,122,25,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|0||128-128-128,0,0,0,0,0,0
+10,588,Transportation Fuels Added Carbon Tax Amount per Unit Energy,2344,926,122,25,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
 1,589,588,586,0,0,0,0,0,128,0,-1--1--1,,1|(2344,971)|
-10,590,Added Fuel Other Tax Amount per Unit Energy,3023,926,82,19,8,2,0,3,-1,0,0,0,128-128-128,0-0-0,|0||128-128-128,0,0,0,0,0,0
-10,591,BAU Transportation Fuel Other Tax Amount per Unit Energy,3335,1028,111,23,8,130,0,7,-1,0,0,0,128-128-128,192-192-192,|0||128-128-128,0,0,0,0,0,0
+10,590,Added Fuel Other Tax Amount per Unit Energy,3023,926,82,19,8,2,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
+10,591,BAU Transportation Fuel Other Tax Amount per Unit Energy,3335,1028,111,23,8,130,0,7,-1,0,0,0,128-128-128,192-192-192,|12||128-128-128,0,0,0,0,0,0
 10,592,Transportation Fuel Other Tax Amount per Unit Energy,3023,1028,92,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
 1,593,591,592,0,0,0,0,0,128,0,-1--1--1,,1|(3176,1028)|
 1,594,590,592,0,0,0,0,0,128,0,-1--1--1,,1|(3023,970)|
@@ -33140,26 +33140,26 @@ Embedded CO2 in Exported Fuels
 1,599,537,86,0,0,0,0,0,128,0,-1--1--1,,1|(798,1326)|
 1,600,538,87,0,0,0,0,0,128,0,-1--1--1,,1|(796,1475)|
 1,601,539,517,0,0,0,0,0,128,0,-1--1--1,,1|(800,1634)|
-10,602,Electricity Fuels Added Carbon Tax Amount per Unit Energy,2344,1091,105,24,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|0||128-128-128,0,0,0,0,0,0
-10,603,BAU Electricity Fuel Carbon Tax Amount per Unit Energy,2032,1178,104,23,8,130,0,7,-1,0,0,0,128-128-128,192-192-192,|0||128-128-128,0,0,0,0,0,0
-10,604,BAU Electricity Fuel Other Tax Amount per Unit Energy,3335,1178,101,24,8,130,0,7,-1,0,0,0,128-128-128,192-192-192,|0||128-128-128,0,0,0,0,0,0
-10,605,Electricity Fuel Carbon Tax Amount per Unit Energy,2344,1178,101,21,8,131,0,16,0,0,0,0,-1--1--1,0-0-0,|0|I|0-0-0,0,0,0,0,0,0
+10,602,Electricity Fuels Added Carbon Tax Amount per Unit Energy,2344,1091,105,24,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
+10,603,BAU Electricity Fuel Carbon Tax Amount per Unit Energy,2032,1178,104,23,8,130,0,7,-1,0,0,0,128-128-128,192-192-192,|12||128-128-128,0,0,0,0,0,0
+10,604,BAU Electricity Fuel Other Tax Amount per Unit Energy,3335,1178,101,24,8,130,0,7,-1,0,0,0,128-128-128,192-192-192,|12||128-128-128,0,0,0,0,0,0
+10,605,Electricity Fuel Carbon Tax Amount per Unit Energy,2344,1178,101,21,8,131,0,16,0,0,0,0,-1--1--1,0-0-0,|12|I|0-0-0,0,0,0,0,0,0
 1,606,603,605,0,0,0,0,0,128,0,-1--1--1,,1|(2182,1178)|
 1,607,602,605,0,0,0,0,0,128,0,-1--1--1,,1|(2344,1129)|
 10,608,Electricity Fuel Other Tax Amount per Unit Energy,3023,1178,82,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
 1,609,604,608,0,0,0,0,0,128,0,-1--1--1,,1|(3176,1178)|
 1,610,605,89,0,0,0,0,0,128,0,-1--1--1,,1|(2510,1178)|
 1,611,608,89,0,0,0,0,0,128,0,-1--1--1,,1|(2867,1178)|
-10,612,Buildings Fuels Added Carbon Tax Amount per Unit Energy,2344,1240,114,23,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|0||128-128-128,0,0,0,0,0,0
-10,613,Industrial Fuels Added Carbon Tax Amount per Unit Energy,2344,1394,112,25,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|0||128-128-128,0,0,0,0,0,0
-10,614,BAU Buildings Fuel Carbon Tax Amount per Unit Energy,2032,1326,104,24,8,130,0,7,-1,0,0,0,128-128-128,192-192-192,|0||128-128-128,0,0,0,0,0,0
-10,615,BAU Industrial Fuel Carbon Tax Amount per Unit Energy,2032,1475,104,25,8,130,0,7,-1,0,0,0,128-128-128,192-192-192,|0||128-128-128,0,0,0,0,0,0
-10,616,BAU District Heat and Hydrogen Fuel Carbon Tax Amount per Unit Energy,2032,1634,90,33,8,130,0,7,-1,0,0,0,128-128-128,192-192-192,|0||128-128-128,0,0,0,0,0,0
+10,612,Buildings Fuels Added Carbon Tax Amount per Unit Energy,2344,1240,114,23,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
+10,613,Industrial Fuels Added Carbon Tax Amount per Unit Energy,2344,1394,112,25,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
+10,614,BAU Buildings Fuel Carbon Tax Amount per Unit Energy,2032,1326,104,24,8,130,0,7,-1,0,0,0,128-128-128,192-192-192,|12||128-128-128,0,0,0,0,0,0
+10,615,BAU Industrial Fuel Carbon Tax Amount per Unit Energy,2032,1475,104,25,8,130,0,7,-1,0,0,0,128-128-128,192-192-192,|12||128-128-128,0,0,0,0,0,0
+10,616,BAU District Heat and Hydrogen Fuel Carbon Tax Amount per Unit Energy,2032,1634,90,33,8,130,0,7,-1,0,0,0,128-128-128,192-192-192,|12||128-128-128,0,0,0,0,0,0
 1,617,590,608,0,0,0,0,0,128,0,-1--1--1,,1|(3023,1045)|
-10,618,BAU Buildings Fuel Other Tax Amount per Unit Energy,3335,1326,100,25,8,130,0,7,-1,0,0,0,128-128-128,192-192-192,|0||128-128-128,0,0,0,0,0,0
-10,619,BAU Industrial Fuel Other Tax Amount per Unit Energy,3335,1475,113,22,8,130,0,7,-1,0,0,0,128-128-128,192-192-192,|0||128-128-128,0,0,0,0,0,0
-10,620,BAU District Heat and Hydrogen Fuel Other Tax Amount per Unit Energy,3335,1634,93,34,8,130,0,7,-1,0,0,0,128-128-128,192-192-192,|0||128-128-128,0,0,0,0,0,0
-10,621,District Heat and Hydrogen Fuels Added Carbon Tax Amount per Unit Energy,2344,1541,147,21,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|0||128-128-128,0,0,0,0,0,0
+10,618,BAU Buildings Fuel Other Tax Amount per Unit Energy,3335,1326,100,25,8,130,0,7,-1,0,0,0,128-128-128,192-192-192,|12||128-128-128,0,0,0,0,0,0
+10,619,BAU Industrial Fuel Other Tax Amount per Unit Energy,3335,1475,113,22,8,130,0,7,-1,0,0,0,128-128-128,192-192-192,|12||128-128-128,0,0,0,0,0,0
+10,620,BAU District Heat and Hydrogen Fuel Other Tax Amount per Unit Energy,3335,1634,93,34,8,130,0,7,-1,0,0,0,128-128-128,192-192-192,|12||128-128-128,0,0,0,0,0,0
+10,621,District Heat and Hydrogen Fuels Added Carbon Tax Amount per Unit Energy,2344,1541,147,21,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
 10,622,Buildings Fuel Other Tax Amount per Unit Energy,3023,1326,79,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
 10,623,Industrial Fuel Other Tax Amount per Unit Energy,3023,1475,80,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
 10,624,District Heat and Hydrogen Fuel Other Tax Amount per Unit Energy,3023,1634,118,20,8,131,0,0,0,0,0,0,0,0,0,0,0,0
@@ -33169,9 +33169,9 @@ Embedded CO2 in Exported Fuels
 1,628,618,622,0,0,0,0,0,128,0,-1--1--1,,1|(3175,1326)|
 1,629,619,623,0,0,0,0,0,128,0,-1--1--1,,1|(3169,1475)|
 1,630,620,624,0,0,0,0,0,128,0,-1--1--1,,1|(3198,1634)|
-10,631,Buildings Fuel Carbon Tax Amount per Unit Energy,2344,1326,97,21,8,131,0,16,0,0,0,0,-1--1--1,0-0-0,|0|I|0-0-0,0,0,0,0,0,0
-10,632,Industrial Fuel Carbon Tax Amount per Unit Energy,2344,1475,93,22,8,131,0,16,0,0,0,0,-1--1--1,0-0-0,|0|I|0-0-0,0,0,0,0,0,0
-10,633,District Heat and Hydrogen Fuel Carbon Tax Amount per Unit Energy,2344,1634,128,24,8,131,0,16,0,0,0,0,-1--1--1,0-0-0,|0|I|0-0-0,0,0,0,0,0,0
+10,631,Buildings Fuel Carbon Tax Amount per Unit Energy,2344,1326,97,21,8,131,0,16,0,0,0,0,-1--1--1,0-0-0,|12|I|0-0-0,0,0,0,0,0,0
+10,632,Industrial Fuel Carbon Tax Amount per Unit Energy,2344,1475,93,22,8,131,0,16,0,0,0,0,-1--1--1,0-0-0,|12|I|0-0-0,0,0,0,0,0,0
+10,633,District Heat and Hydrogen Fuel Carbon Tax Amount per Unit Energy,2344,1634,128,24,8,131,0,16,0,0,0,0,-1--1--1,0-0-0,|12|I|0-0-0,0,0,0,0,0,0
 1,634,621,633,0,0,0,0,0,128,0,-1--1--1,,1|(2344,1579)|
 1,635,613,632,0,0,0,0,0,128,0,-1--1--1,,1|(2344,1429)|
 1,636,612,631,0,0,0,0,0,128,0,-1--1--1,,1|(2344,1276)|
@@ -33184,11 +33184,11 @@ Embedded CO2 in Exported Fuels
 1,643,633,518,0,0,0,0,0,128,0,-1--1--1,,1|(2512,1634)|
 1,644,632,91,0,0,0,0,0,128,0,-1--1--1,,1|(2511,1475)|
 1,645,631,90,0,0,0,0,0,128,0,-1--1--1,,1|(2514,1326)|
-10,646,BCTR BAU Carbon Tax Rate,439,684,56,19,8,3,0,4,0,0,0,0,-1--1--1,192-128-192,|0||0-0-0,0,0,0,0,0,0
-12,647,0,509,745,149,38,8,7,0,4,-1,0,0,0,-1--1--1,255-255-128,|0||0-0-0,0,0,0,0,0,0
+10,646,BCTR BAU Carbon Tax Rate,439,684,56,19,8,3,0,4,0,0,0,0,-1--1--1,192-128-192,|12||0-0-0,0,0,0,0,0,0
+12,647,0,509,745,149,38,8,7,0,4,-1,0,0,0,-1--1--1,255-255-128,|12||0-0-0,0,0,0,0,0,0
 This is currently only used in the Industry sector for process emissions.  It will be used on this sheet when input data are restructured to take pre-tax and tax values in separately.
-10,648,Additional Carbon Tax Rate This Year,592,615,67,19,8,2,0,3,-1,0,0,0,128-128-128,0-0-0,|0||128-128-128,0,0,0,0,0,0
-10,649,Carbon Tax Rate,592,684,58,11,8,3,0,16,0,0,0,0,-1--1--1,0-0-0,|0|I|0-0-0,0,0,0,0,0,0
+10,648,Additional Carbon Tax Rate This Year,592,615,67,19,8,2,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
+10,649,Carbon Tax Rate,592,684,58,11,8,3,0,16,0,0,0,0,-1--1--1,0-0-0,|12|I|0-0-0,0,0,0,0,0,0
 1,650,648,649,0,0,0,0,0,128,0,-1--1--1,,1|(592,646)|
 1,651,646,649,0,0,0,0,0,128,0,-1--1--1,,1|(507,684)|
 \\\---/// Sketch information - do not modify anything except names
@@ -33703,19 +33703,19 @@ Summing Partitioning Effects on Changes in Revenue
 Partitioning is used to separate out the share of revenue changes for nonenergy industries that go to foreign entities, to labor, and to government.  This is not done in the demand sectors, but done here, after adding revenue changes from all sectors, to avoid duplication of code in each sector.
 12,313,0,1133,148,679,20,3,135,0,12,-1,3,0,0,-1--1--1,192-255-255,|18||0-0-0,0,0,0,0,0,0
 Change in Carbon Tax Revenue
-12,314,0,737,186,283,15,8,135,0,4,-1,0,0,0,-1--1--1,255-255-128,|0||0-0-0,0,0,0,0,0,0
+12,314,0,737,186,283,15,8,135,0,4,-1,0,0,0,-1--1--1,255-255-128,|12||0-0-0,0,0,0,0,0,0
 In regions with no BAU carbon taxes, this quantity is simply total carbon tax revenue.
-10,315,Transportation Sector Fuel Used,587,285,61,19,8,2,0,3,-1,0,0,0,128-128-128,0-0-0,|0||128-128-128,0,0,0,0,0,0
+10,315,Transportation Sector Fuel Used,587,285,61,19,8,2,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
 10,316,Transportation Sector Carbon Tax Revenue,867,335,70,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
-10,317,BAU Transportation Sector Fuel Used,1643,285,73,18,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|0||128-128-128,0,0,0,0,0,0
-10,318,BAU Transportation Fuel Carbon Tax Amount per Unit Energy,1643,335,114,22,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|0||128-128-128,0,0,0,0,0,0
-10,319,Transportation Fuel Carbon Tax Amount per Unit Energy,587,330,97,22,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|0||128-128-128,0,0,0,0,0,0
+10,317,BAU Transportation Sector Fuel Used,1643,285,73,18,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
+10,318,BAU Transportation Fuel Carbon Tax Amount per Unit Energy,1643,335,114,22,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
+10,319,Transportation Fuel Carbon Tax Amount per Unit Energy,587,330,97,22,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
 10,320,BAU Transportation Sector Carbon Tax Revenue,1330,335,88,19,8,131,0,0,0,0,0,0,0,0,0,0,0,0
 1,321,319,316,0,0,0,0,0,128,0,-1--1--1,,1|(733,331)|
 1,322,315,316,0,0,0,0,0,128,0,-1--1--1,,1|(715,308)|
 1,323,317,320,0,0,0,0,0,128,0,-1--1--1,,1|(1500,308)|
 1,324,318,320,0,0,0,0,0,128,0,-1--1--1,,1|(1480,335)|
-10,325,Building Components Energy Use,587,518,121,13,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|0||128-128-128,0,0,0,0,0,0
+10,325,Building Components Energy Use,587,518,121,13,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
 10,326,Electricity Fuel Use,587,386,75,11,8,130,0,3,0,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
 10,327,Fuel Used to Generate Heat,587,800,101,13,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
 10,328,Industrial Fuel Use,587,648,70,13,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
@@ -33739,25 +33739,25 @@ In regions with no BAU carbon taxes, this quantity is simply total carbon tax re
 1,346,332,342,0,0,0,0,0,128,0,-1--1--1,,1|(867,839)|
 1,347,331,342,0,0,0,0,0,128,0,-1--1--1,,1|(867,777)|
 1,348,316,342,0,0,0,0,0,128,0,-1--1--1,,1|(867,726)|
-10,349,Electricity Fuel Carbon Tax Amount per Unit Energy,587,428,95,24,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|0||128-128-128,0,0,0,0,0,0
-10,350,Buildings Fuel Carbon Tax Amount per Unit Energy,587,561,90,26,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|0||128-128-128,0,0,0,0,0,0
-10,351,Industrial Fuel Carbon Tax Amount per Unit Energy,587,689,93,23,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|0||128-128-128,0,0,0,0,0,0
-10,352,District Heat and Hydrogen Fuel Carbon Tax Amount per Unit Energy,587,881,88,29,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|0||128-128-128,0,0,0,0,0,0
-10,353,Industrial Fuel Carbon Tax Amount per Unit Energy,587,1020,91,21,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|0||128-128-128,0,0,0,0,0,0
+10,349,Electricity Fuel Carbon Tax Amount per Unit Energy,587,428,95,24,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
+10,350,Buildings Fuel Carbon Tax Amount per Unit Energy,587,561,90,26,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
+10,351,Industrial Fuel Carbon Tax Amount per Unit Energy,587,689,93,23,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
+10,352,District Heat and Hydrogen Fuel Carbon Tax Amount per Unit Energy,587,881,88,29,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
+10,353,Industrial Fuel Carbon Tax Amount per Unit Energy,587,1020,91,21,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
 1,354,351,333,0,0,0,0,0,128,0,-1--1--1,,1|(732,689)|
 1,355,350,332,0,0,0,0,0,128,0,-1--1--1,,1|(731,561)|
 1,356,349,331,0,0,0,0,0,128,0,-1--1--1,,1|(733,431)|
 1,357,353,335,0,0,0,0,0,128,0,-1--1--1,,1|(729,1020)|
 1,358,352,334,0,0,0,0,0,128,0,-1--1--1,,1|(718,860)|
-10,359,BAU Electricity Fuel Use,1643,386,98,16,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|0||128-128-128,0,0,0,0,0,0
-10,360,BAU Electricity Fuel Carbon Tax Amount per Unit Energy,1643,436,102,23,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|0||128-128-128,0,0,0,0,0,0
-10,361,BAU Building Components Energy Use,1643,518,137,13,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|0||128-128-128,0,0,0,0,0,0
-10,362,BAU Buildings Fuel Carbon Tax Amount per Unit Energy,1643,561,105,23,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|0||128-128-128,0,0,0,0,0,0
-10,363,BAU Industrial Fuel Use,1643,648,97,15,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|0||128-128-128,0,0,0,0,0,0
-10,364,BAU Industrial Fuel Carbon Tax Amount per Unit Energy,1643,689,104,20,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|0||128-128-128,0,0,0,0,0,0
-10,365,BAU Fuel Used to Generate Heat,1643,800,122,13,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|0||128-128-128,0,0,0,0,0,0
-10,366,BAU Hydrogen Sector Fuel Use,1643,834,108,16,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|0||128-128-128,0,0,0,0,0,0
-10,367,BAU District Heat and Hydrogen Fuel Carbon Tax Amount per Unit Energy,1643,881,88,28,8,2,0,3,-1,0,0,0,128-128-128,0-0-0,|0||128-128-128,0,0,0,0,0,0
+10,359,BAU Electricity Fuel Use,1643,386,98,16,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
+10,360,BAU Electricity Fuel Carbon Tax Amount per Unit Energy,1643,436,102,23,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
+10,361,BAU Building Components Energy Use,1643,518,137,13,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
+10,362,BAU Buildings Fuel Carbon Tax Amount per Unit Energy,1643,561,105,23,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
+10,363,BAU Industrial Fuel Use,1643,648,97,15,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
+10,364,BAU Industrial Fuel Carbon Tax Amount per Unit Energy,1643,689,104,20,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
+10,365,BAU Fuel Used to Generate Heat,1643,800,122,13,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
+10,366,BAU Hydrogen Sector Fuel Use,1643,834,108,16,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
+10,367,BAU District Heat and Hydrogen Fuel Carbon Tax Amount per Unit Energy,1643,881,88,28,8,2,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
 10,368,BAU Electricity Sector Carbon Tax Revenue,1330,436,73,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
 10,369,BAU Buildings Sector Carbon Tax Revenue,1330,561,71,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
 10,370,BAU Industry Sector Carbon Tax Revenue,1330,689,68,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
@@ -33777,30 +33777,30 @@ In regions with no BAU carbon taxes, this quantity is simply total carbon tax re
 1,384,369,381,0,0,0,0,0,128,0,-1--1--1,,1|(1330,839)|
 1,385,368,381,0,0,0,0,0,128,0,-1--1--1,,1|(1330,777)|
 1,386,320,381,0,0,0,0,0,128,0,-1--1--1,,1|(1330,726)|
-10,387,Change in Carbon Tax Revenue,1098,1132,58,19,8,3,0,4,0,0,0,0,-1--1--1,255-192-128,|0||0-0-0,0,0,0,0,0,0
+10,387,Change in Carbon Tax Revenue,1098,1132,58,19,8,3,0,4,0,0,0,0,-1--1--1,255-192-128,|12||0-0-0,0,0,0,0,0,0
 1,388,342,387,0,0,0,0,0,128,0,-1--1--1,,1|(975,1132)|
 1,389,381,387,0,0,0,0,0,128,0,-1--1--1,,1|(1219,1132)|
 12,390,0,2577,148,679,20,3,135,0,12,-1,3,0,0,-1--1--1,192-255-255,|18||0-0-0,0,0,0,0,0,0
 Change in Other Fuel Tax Revenue
-10,391,Transportation Sector Fuel Used,2047,285,61,19,8,2,0,3,-1,0,0,0,128-128-128,0-0-0,|0||128-128-128,0,0,0,0,0,0
-10,392,Building Components Energy Use,2047,518,117,14,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|0||128-128-128,0,0,0,0,0,0
+10,391,Transportation Sector Fuel Used,2047,285,61,19,8,2,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
+10,392,Building Components Energy Use,2047,518,117,14,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
 10,393,Electricity Fuel Use,2047,386,74,15,8,130,0,3,0,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
 10,394,Fuel Used to Generate Heat,2047,800,96,13,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
 10,395,Industrial Fuel Use,2047,648,74,15,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
 10,396,Hydrogen Sector Fuel Use,2047,834,96,11,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
 10,397,Geoengineering Sector Energy Use,2047,974,65,19,8,2,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
-10,398,BAU Transportation Sector Fuel Used,3106,285,70,19,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|0||128-128-128,0,0,0,0,0,0
-10,399,BAU Electricity Fuel Use,3106,386,55,19,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|0||128-128-128,0,0,0,0,0,0
-10,400,BAU Building Components Energy Use,3106,518,137,16,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|0||128-128-128,0,0,0,0,0,0
-10,401,BAU Industrial Fuel Use,3106,648,85,16,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|0||128-128-128,0,0,0,0,0,0
-10,402,BAU Fuel Used to Generate Heat,3106,800,120,15,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|0||128-128-128,0,0,0,0,0,0
-10,403,BAU Hydrogen Sector Fuel Use,3106,834,116,15,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|0||128-128-128,0,0,0,0,0,0
-10,404,Transportation Fuel Other Tax Amount per Unit Energy,2047,335,96,21,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|0||128-128-128,0,0,0,0,0,0
-10,405,Electricity Fuel Other Tax Amount per Unit Energy,2047,436,86,19,8,2,0,3,-1,0,0,0,128-128-128,0-0-0,|0||128-128-128,0,0,0,0,0,0
-10,406,Buildings Fuel Other Tax Amount per Unit Energy,2047,561,84,19,8,2,0,3,-1,0,0,0,128-128-128,0-0-0,|0||128-128-128,0,0,0,0,0,0
-10,407,Industrial Fuel Other Tax Amount per Unit Energy,2047,689,84,19,8,2,0,3,-1,0,0,0,128-128-128,0-0-0,|0||128-128-128,0,0,0,0,0,0
-10,408,District Heat and Hydrogen Fuel Other Tax Amount per Unit Energy,2047,881,87,29,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|0||128-128-128,0,0,0,0,0,0
-10,409,Industrial Fuel Other Tax Amount per Unit Energy,2047,1021,84,19,8,2,0,3,-1,0,0,0,128-128-128,0-0-0,|0||128-128-128,0,0,0,0,0,0
+10,398,BAU Transportation Sector Fuel Used,3106,285,70,19,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
+10,399,BAU Electricity Fuel Use,3106,386,55,19,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
+10,400,BAU Building Components Energy Use,3106,518,137,16,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
+10,401,BAU Industrial Fuel Use,3106,648,85,16,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
+10,402,BAU Fuel Used to Generate Heat,3106,800,120,15,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
+10,403,BAU Hydrogen Sector Fuel Use,3106,834,116,15,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
+10,404,Transportation Fuel Other Tax Amount per Unit Energy,2047,335,96,21,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
+10,405,Electricity Fuel Other Tax Amount per Unit Energy,2047,436,86,19,8,2,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
+10,406,Buildings Fuel Other Tax Amount per Unit Energy,2047,561,84,19,8,2,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
+10,407,Industrial Fuel Other Tax Amount per Unit Energy,2047,689,84,19,8,2,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
+10,408,District Heat and Hydrogen Fuel Other Tax Amount per Unit Energy,2047,881,87,29,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
+10,409,Industrial Fuel Other Tax Amount per Unit Energy,2047,1021,84,19,8,2,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
 10,410,Transportation Sector Other Fuel Tax Revenue,2325,335,78,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
 10,411,Electricity Sector Other Fuel Tax Revenue,2325,436,75,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
 10,412,Buildings Sector Other Fuel Tax Revenue,2325,561,72,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
@@ -33827,18 +33827,18 @@ Change in Other Fuel Tax Revenue
 1,433,412,429,0,0,0,0,0,128,0,-1--1--1,,1|(2325,839)|
 1,434,411,429,0,0,0,0,0,128,0,-1--1--1,,1|(2325,777)|
 1,435,410,429,0,0,0,0,0,128,0,-1--1--1,,1|(2325,726)|
-10,436,BAU Transportation Fuel Other Tax Amount per Unit Energy,3106,335,112,23,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|0||128-128-128,0,0,0,0,0,0
-10,437,BAU Electricity Fuel Other Tax Amount per Unit Energy,3106,436,103,24,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|0||128-128-128,0,0,0,0,0,0
-10,438,BAU Buildings Fuel Other Tax Amount per Unit Energy,3106,561,99,25,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|0||128-128-128,0,0,0,0,0,0
-10,439,BAU Industrial Fuel Other Tax Amount per Unit Energy,3106,689,96,24,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|0||128-128-128,0,0,0,0,0,0
-10,440,BAU District Heat and Hydrogen Fuel Other Tax Amount per Unit Energy,3106,881,82,28,8,2,0,3,-1,0,0,0,128-128-128,0-0-0,|0||128-128-128,0,0,0,0,0,0
+10,436,BAU Transportation Fuel Other Tax Amount per Unit Energy,3106,335,112,23,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
+10,437,BAU Electricity Fuel Other Tax Amount per Unit Energy,3106,436,103,24,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
+10,438,BAU Buildings Fuel Other Tax Amount per Unit Energy,3106,561,99,25,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
+10,439,BAU Industrial Fuel Other Tax Amount per Unit Energy,3106,689,96,24,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
+10,440,BAU District Heat and Hydrogen Fuel Other Tax Amount per Unit Energy,3106,881,82,28,8,2,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
 10,441,BAU Transportation Sector Other Fuel Tax Revenue,2793,335,90,24,8,131,0,0,0,0,0,0,0,0,0,0,0,0
 10,442,BAU Electricity Sector Other Fuel Tax Revenue,2793,436,78,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
 10,443,BAU Buildings Sector Other Fuel Tax Revenue,2793,561,78,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
 10,444,BAU Industry Sector Other Fuel Tax Revenue,2793,689,78,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
 10,445,BAU District Heat and Hydrogen Sector Other Fuel Tax Revenue,2793,834,114,23,8,131,0,0,0,0,0,0,0,0,0,0,0,0
 10,446,BAU Total Other Fuel Tax Revenue,2793,1132,58,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
-10,447,Change in Other Fuel Tax Revenue,2556,1132,68,19,8,3,0,4,0,0,0,0,-1--1--1,255-192-128,|0||0-0-0,0,0,0,0,0,0
+10,447,Change in Other Fuel Tax Revenue,2556,1132,68,19,8,3,0,4,0,0,0,0,-1--1--1,255-192-128,|12||0-0-0,0,0,0,0,0,0
 1,448,429,447,0,0,0,0,0,128,0,-1--1--1,,1|(2426,1132)|
 1,449,446,447,0,0,0,0,0,128,0,-1--1--1,,1|(2686,1132)|
 1,450,445,446,0,0,0,0,0,128,0,-1--1--1,,1|(2793,978)|
@@ -33857,8 +33857,8 @@ Change in Other Fuel Tax Revenue
 1,463,399,442,0,0,0,0,0,128,0,-1--1--1,,1|(2967,407)|
 1,464,398,441,0,0,0,0,0,128,0,-1--1--1,,1|(2966,308)|
 1,465,436,441,0,0,0,0,0,128,0,-1--1--1,,1|(2945,335)|
-10,466,Carbon Tax on Process Emissions by Industry,1098,625,81,19,8,2,0,3,-1,0,0,0,128-128-128,0-0-0,|0||128-128-128,0,0,0,0,0,0
-10,467,BAU Carbon Tax on Process Emissions by Industry,1098,761,102,22,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|0||128-128-128,0,0,0,0,0,0
+10,466,Carbon Tax on Process Emissions by Industry,1098,625,81,19,8,2,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
+10,467,BAU Carbon Tax on Process Emissions by Industry,1098,761,102,22,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
 1,468,466,333,0,0,0,0,0,128,0,-1--1--1,,1|(989,655)|
 1,469,467,370,0,0,0,0,0,128,0,-1--1--1,,1|(1211,725)|
 \\\---/// Sketch information - do not modify anything except names
@@ -34303,14 +34303,14 @@ Effects on Foreign Entities (Outside Modeled Region)
 1,401,400,385,0,0,0,0,0,128,0,-1--1--1,,1|(3369,1939)|
 12,402,0,791,161,351,24,3,135,0,12,-1,3,0,0,-1--1--1,192-255-255,|18||0-0-0,0,0,0,0,0,0
 Calculating Tax Revenues or Subsidies that Have Individual Allocation Settings
-10,403,Change in Carbon Tax Revenue,562,303,63,19,8,2,0,3,-1,0,0,0,128-128-128,0-0-0,|0||128-128-128,0,0,0,0,0,0
-10,404,Change in Other Fuel Tax Revenue,565,383,73,19,8,2,0,3,-1,0,0,0,128-128-128,0-0-0,|0||128-128-128,0,0,0,0,0,0
-10,405,Change in Total EV Subsidy Amount Paid,560,460,74,19,8,2,0,3,-1,0,0,0,128-128-128,0-0-0,|0||128-128-128,0,0,0,0,0,0
+10,403,Change in Carbon Tax Revenue,562,303,63,19,8,2,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
+10,404,Change in Other Fuel Tax Revenue,565,383,73,19,8,2,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
+10,405,Change in Total EV Subsidy Amount Paid,560,460,74,19,8,2,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
 10,406,Change in Electricity Generation Subsidies Paid,554,525,88,19,8,2,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
 10,407,Change in Capacity Construction Subsidies Paid,557,603,99,20,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
 10,408,Subsidy Paid on Distributed Solar Capacity,552,686,96,23,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
 10,409,Change in Thermal Fuel Subsidies Paid,545,768,67,19,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
-10,410,Last Year Change in National Debt Interest Received by Cash Flow Entity,558,857,102,28,8,2,0,3,-1,0,0,0,128-128-128,0-0-0,|0||128-128-128,0,0,0,0,0,0
+10,410,Last Year Change in National Debt Interest Received by Cash Flow Entity,558,857,102,28,8,2,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
 \\\---/// Sketch information - do not modify anything except names
 V300  Do not put anything below this section - it will be ignored
 *Cost Outputs
@@ -34529,9 +34529,9 @@ Any tax revenue that is rebated to households or businesses (i.e. partial or tot
 10,189,Changes in Nonenergy Expenditures by Entity due to Production Changes,1197,1690,127,23,8,130,0,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128,0,0,0,0,0,0
 12,190,0,1197,1603,286,66,8,135,0,4,-1,0,0,0,-1--1--1,255-255-128,|12||0-0-0,0,0,0,0,0,0
 Changes in purchases of non-energy input materials (e.g. raw steel, etc.) are also a part of OpEx, but at present, we don't separate out input materials from other industrial products - we only have the total change in expenditures on all industrial products in variable "Changes in Nonenergy Expenditures by Entity due to Production Changes."  Including this entire variable in the cost metric tends to overwhelm other components of the cost metric when material efficiency policies are enabled.  For now, we exclude changes in spending on input materials from the CapEx + OpEx metric.  We may revisit this in a future EPS update.
-12,191,0,2563,880,205,47,8,135,0,4,-1,0,0,0,-1--1--1,255-255-128,|0||0-0-0,0,0,0,0,0,0
+12,191,0,2563,880,205,47,8,135,0,4,-1,0,0,0,-1--1--1,255-255-128,|12||0-0-0,0,0,0,0,0,0
 This variable is no longer used in the cost metric (because we now subtract out the portion of government revenue change allocated to tax reduction/rebates for revenue neutrality, instead of assuming the total of every tax and subsidy is revenue-neutral), but we leave the calculations here in case they are useful later.
-12,192,0,2563,1225,205,47,8,135,0,4,-1,0,0,0,-1--1--1,255-255-128,|0||0-0-0,0,0,0,0,0,0
+12,192,0,2563,1225,205,47,8,135,0,4,-1,0,0,0,-1--1--1,255-255-128,|12||0-0-0,0,0,0,0,0,0
 This variable is no longer used in the cost metric (because we now subtract out the portion of government revenue change allocated to tax reduction/rebates for revenue neutrality, instead of assuming the total of every tax and subsidy is revenue-neutral), but we leave the calculations here in case they are useful later.
 \\\---/// Sketch information - do not modify anything except names
 V300  Do not put anything below this section - it will be ignored
@@ -36666,11 +36666,11 @@ Control Settings are used to set how the model compensates for changes to govern
 22:Year,Years,yr,yrs
 23:0
 15:0,0,0,0,0,0
-19:70,0
+19:90,1
 27:0,
 34:0,
 4:Time
-5:Output Total CO2e Emissions
+5:Change in Carbon Tax Revenue
 35:Date
 36:YYYY-MM-DD
 37:2000
