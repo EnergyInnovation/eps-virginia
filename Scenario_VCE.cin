@@ -1,5 +1,5 @@
+Additional Battery Storage Annual Growth Percentage = 0.44
 Policy Implementation Schedule Selector = 2
-Renewable Portfolio Std Percentage = 0.81
 Reduction in E Use Allowed by Component Eff Std[cooling and ventilation,urban residential] = 0.38
 Reduction in E Use Allowed by Component Eff Std[cooling and ventilation,rural residential] = 0.38
 Reduction in E Use Allowed by Component Eff Std[cooling and ventilation,commercial] = 0.38
@@ -11,6 +11,7 @@ Reduction in E Use Allowed by Component Eff Std[lighting,rural residential] = 0.
 Reduction in E Use Allowed by Component Eff Std[lighting,commercial] = 0.4
 Reduction in E Use Allowed by Component Eff Std[other component,urban residential] = 0.11
 Reduction in E Use Allowed by Component Eff Std[other component,rural residential] = 0.11
+Renewable Portfolio Std Percentage = 0.81
 Share of Preexisting Buildings Subject to Retrofitting[urban residential] = 0.08
 Share of Preexisting Buildings Subject to Retrofitting[rural residential] = 0.08
 Share of Preexisting Buildings Subject to Retrofitting[commercial] = 0.08
