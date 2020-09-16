@@ -1,8 +1,8 @@
-Additional Battery Storage Annual Growth Percentage = 0.44
 Annual Additional Capacity Retired due to Early Retirement Policy[hard coal es] = 900
 Annual Additional Capacity Retired due to Early Retirement Policy[biomass es] = 50
 Boolean Use Non BAU Mandated Capacity Construction Schedule[offshore wind es] = 1
-Policy Implementation Schedule Selector = 2
+Fraction of Additional Grid Battery Storage Potential Achieved = 0.05
+Policy Implementation Schedule Selector = 3
 Reduction in E Use Allowed by Component Eff Std[cooling and ventilation,urban residential] = 0.38
 Reduction in E Use Allowed by Component Eff Std[cooling and ventilation,rural residential] = 0.38
 Reduction in E Use Allowed by Component Eff Std[cooling and ventilation,commercial] = 0.38
