@@ -1,8 +1,8 @@
-Annual Additional Capacity Retired due to Early Retirement Policy[hard coal es] = 831
+Annual Additional Capacity Retired due to Early Retirement Policy[hard coal es] = 1000
 Annual Additional Capacity Retired due to Early Retirement Policy[natural gas nonpeaker es] = 259
-Annual Additional Capacity Retired due to Early Retirement Policy[biomass es] = 25
+Annual Additional Capacity Retired due to Early Retirement Policy[biomass es] = 6
 Annual Additional Capacity Retired due to Early Retirement Policy[petroleum es] = 76
-Annual Additional Capacity Retired due to Early Retirement Policy[natural gas peaker es] = 108
+Annual Additional Capacity Retired due to Early Retirement Policy[natural gas peaker es] = 110
 Boolean Use Non BAU Mandated Capacity Construction Schedule[offshore wind es] = 1
 Fraction of Additional Grid Battery Storage Potential Achieved = 0.06
 Policy Implementation Schedule Selector = 3
