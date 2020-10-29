@@ -1,17 +1,98 @@
-Mandated Construction (MW),2019,2020,2021,2022,2023,2024,2025,2026,2027,2028,2029,2030,2031,2032,2033,2034,2035,2036,2037,2038,2039,2040,2041,2042,2043,2044,2045,2046,2047,2048,2049,2050
-hard coal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-natural gas nonpeaker,0,0,2.4,1060,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-nuclear,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-hydro,0,0,1.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-onshore wind,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-solar PV,0,877.6,705.1,76.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-solar thermal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-biomass,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-geothermal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-petroleum,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-natural gas peaker,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-lignite,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-offshore wind,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-crude oil,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-heavy or residual fuel oil,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-municipal solid waste,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,state,technology,capacity
+0,AK,heavy or residual fuel oil,3.0
+1,AK,onshore wind,1.0
+2,AL,lignite,15.6
+3,AL,natural gas peaker,50.0
+4,AR,solar PV,12.2
+5,AZ,natural gas peaker,7.9
+6,AZ,solar PV,71.7
+7,CA,natural gas peaker,34.4
+8,CA,onshore wind,132.9
+9,CA,solar PV,1061.6000000000001
+10,CO,onshore wind,59.4
+11,CO,solar PV,75.3
+12,CT,natural gas nonpeaker,576.3
+13,CT,natural gas peaker,1.3
+14,CT,solar PV,49.8
+15,DC,natural gas peaker,12.1
+16,DC,solar PV,6.9
+17,DE,heavy or residual fuel oil,45.1
+18,DE,solar PV,3.0
+19,FL,natural gas nonpeaker,1723.1000000000001
+20,FL,solar PV,743.4
+21,GA,lignite,116.0
+22,GA,solar PV,495.4
+23,HI,heavy or residual fuel oil,113.0
+24,HI,solar PV,143.6
+25,IA,heavy or residual fuel oil,1.1
+26,IA,onshore wind,949.5
+27,IA,solar PV,4.6
+28,ID,solar PV,2.0
+29,IL,onshore wind,584.5
+30,IL,solar PV,3.5
+31,IN,natural gas peaker,10.8
+32,IN,solar PV,28.8
+33,KS,heavy or residual fuel oil,1.0
+34,KS,onshore wind,774.2
+35,KS,solar PV,6.0
+36,LA,natural gas nonpeaker,1000.0
+37,LA,natural gas peaker,59.3
+38,MA,natural gas peaker,530.0
+39,MA,onshore wind,5.0
+40,MA,solar PV,117.80000000000003
+41,MD,natural gas peaker,94.0
+42,MD,solar PV,42.3
+43,ME,natural gas peaker,186.8
+44,MI,natural gas nonpeaker,35.0
+45,MI,onshore wind,209.3
+46,MI,solar PV,3.8
+47,MN,hard coal,26.5
+48,MN,onshore wind,117.50000000000001
+49,MN,solar PV,159.70000000000002
+50,MO,heavy or residual fuel oil,20.0
+51,MS,solar PV,57.5
+52,NC,natural gas nonpeaker,294.0
+53,NC,natural gas peaker,5.6
+54,NC,solar PV,506.4
+55,ND,onshore wind,306.7
+56,NE,onshore wind,480.6
+57,NE,solar PV,6.5
+58,NH,onshore wind,28.8
+59,NJ,heavy or residual fuel oil,6.1
+60,NJ,natural gas peaker,15.4
+61,NJ,solar PV,88.40000000000002
+62,NM,onshore wind,220.5
+63,NM,solar PV,109.7
+64,NV,geothermal,32.4
+65,NV,solar PV,420.8
+66,NY,heavy or residual fuel oil,35.400000000000006
+67,NY,solar PV,216.5
+68,OH,heavy or residual fuel oil,19.6
+69,OH,solar PV,25.399999999999995
+70,OK,natural gas peaker,82.0
+71,OK,onshore wind,100.0
+72,OR,onshore wind,200.0
+73,OR,solar PV,87.90000000000002
+74,PA,natural gas nonpeaker,1722.0
+75,PA,natural gas peaker,5.6
+76,PA,onshore wind,90.0
+77,PA,solar PV,23.1
+78,RI,onshore wind,21.0
+79,RI,solar PV,47.900000000000006
+80,SC,heavy or residual fuel oil,3.5
+81,SC,natural gas peaker,16.9
+82,SC,solar PV,305.0
+83,SD,lignite,5.4
+84,SD,onshore wind,496.8
+85,TN,natural gas peaker,61.4
+86,TN,solar PV,2.3
+87,TX,natural gas peaker,192.3
+88,TX,onshore wind,3949.7
+89,TX,solar PV,499.09999999999997
+90,UT,natural gas peaker,16.5
+91,UT,solar PV,57.6
+92,VA,heavy or residual fuel oil,1.8
+93,VA,solar PV,163.60000000000002
+94,VT,heavy or residual fuel oil,47.2
+95,VT,solar PV,21.0
+96,WI,solar PV,16.5
