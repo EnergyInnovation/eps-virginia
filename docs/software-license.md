@@ -11,12 +11,12 @@ Note that this license applies to the EPS, not to Vensim.  Vensim is commercial 
 
 ## Image Credits
 
-Wind Turbines with Farms
+Atop Old Rag Mountain
 
-Pxhere
+Katy Cain, National Park Service
 
-[https://pxhere.com/en/photo/540828](https://pxhere.com/en/photo/540828)
+[https://www.flickr.com/photos/snpphotos/28219264562](https://www.flickr.com/photos/snpphotos/28219264562)
 
-License: Creative Commons CC0 1.0 Universal Public Domain Dedication
+License: Public Domain (U.S. federal government image)
 
-Changes: Image has been cropped, flipped horizontally, and a fade has been applied to the left side.
+Changes: Image has been cropped and a fade has been applied to the left side.
