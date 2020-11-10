@@ -37,7 +37,6 @@ Fraction of Industrial Fuel Use Shifted to Other Fuels[coal mining,hard coal if]
 Fraction of Industrial Fuel Use Shifted to Other Fuels[coal mining,natural gas if] = 0.1
 Fraction of Industrial Fuel Use Shifted to Other Fuels[coal mining,petroleum diesel if] = 0.5
 Fraction of Industrial Fuel Use Shifted to Other Fuels[coal mining,heavy or residual fuel oil if] = 0.5
-Fraction of Industrial Fuel Use Shifted to Other Fuels[agriculture,hard coal if] = 0.5
 Fraction of Industrial Fuel Use Shifted to Other Fuels[agriculture,natural gas if] = 0.1
 Fraction of Industrial Fuel Use Shifted to Other Fuels[agriculture,petroleum diesel if] = 0.5
 Fraction of Industrial Fuel Use Shifted to Other Fuels[agriculture,heavy or residual fuel oil if] = 0.5
@@ -57,8 +56,7 @@ Fraction of New Bldg Components Shifted to Other Fuels[appliances,commercial] = 
 Fraction of New Bldg Components Shifted to Other Fuels[other component,commercial] = 0.99
 Fraction of Potential Additional CCS Achieved[electricity sector] = 0.3
 Fraction of Potential Additional CCS Achieved[industry sector] = 0.05
-Percent of Travel Demand Shifted to Other Modes or Eliminated[passenger,LDVs] = 0.6
-Percent of Travel Demand Shifted to Other Modes or Eliminated[passenger,motorbikes] = 0.6
+Percent of Travel Demand Shifted to Other Modes or Eliminated[passenger,LDVs] = 0.26
 Percentage Improvement in Eqpt Efficiency Standards above BAU[cement and other carbonates,electricity if] = 0.15
 Percentage Improvement in Eqpt Efficiency Standards above BAU[cement and other carbonates,hard coal if] = 0.15
 Percentage Improvement in Eqpt Efficiency Standards above BAU[cement and other carbonates,natural gas if] = 0.15
