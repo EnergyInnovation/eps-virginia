@@ -1,17 +1,17 @@
-,Minimum Capacity (MW)
-hard coal,95
-natural gas nonpeaker,86
-nuclear,1005
-hydro,1
-onshore wind,2
-solar PV,1
-solar thermal,141
-biomass,1
-geothermal,4
-petroleum,1
-natural gas peaker,36
-lignite,95
-offshore wind,2
-crude oil,4
-heavy or residual fuel oil,4
-municipal solid waste,13
+,Minimum Capacity (MW),
+hard coal,93,
+natural gas nonpeaker,65,
+nuclear,1005,
+hydro,1,
+onshore wind,2,
+solar PV,1,
+solar thermal,141,
+biomass,2,
+geothermal,4,
+petroleum,3.16667,
+natural gas peaker,36,
+lignite,95,
+offshore wind,2,
+crude oil,4,
+heavy or residual fuel oil,4,
+municipal solid waste,13,
