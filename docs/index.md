@@ -3,7 +3,7 @@ layout: page
 title:  "Virginia Energy Policy Simulator"
 ---
 
-The Virginia Energy Policy Simulator (EPS) is a free and open-source computer model created by [{partner name}]({partner url}).  It is adapted from software originally created by [Energy Innovation LLC](https://energyinnovation.org/).
+The Virginia Energy Policy Simulator (EPS) is a free and open-source computer model created by [Energy Innovation LLC](https://energyinnovation.org/) and [Rocky Mountain Institute](https://rmi.org/).  It is adapted from software originally created by Energy Innovation LLC.
 
 ## Model Download
 
@@ -13,7 +13,7 @@ The Virginia Energy Policy Simulator may be used on this website through your we
 
 ## Documentation
 
-Documentation of the model is available [here](https://us.energypolicy.solutions/docs/index.html).  Documentation is not specific to any model version and therefore applies to both U.S. and Virginia versions of the Energy Policy Simulator.
+Documentation of source data, assumptions, and policy scenarios is available [here]({Insert URL}). Documentation of the model is available [here](https://us.energypolicy.solutions/docs/index.html).  Documentation of the model is not specific to any model version and therefore applies to both U.S. and Virginia versions of the Energy Policy Simulator.
 
 ## Other Information
 
