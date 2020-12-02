@@ -1,32 +1,32 @@
-hard coal,Installed Capacity (MW),0,999999999,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Max Growth Amount (MW),198,198,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-natural gas nonpeaker,Installed Capacity (MW),0,999999999,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Max Growth Amount (MW),1262,1262,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-nuclear,Installed Capacity (MW),0,999999999,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Max Growth Amount (MW),216.726178,216.726178,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-hydro,Installed Capacity (MW),0,999999999,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Max Growth Amount (MW),9,9.12235757,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-wind,Installed Capacity (MW),0,999999999,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Max Growth Amount (MW),13,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-solar PV,Installed Capacity (MW),0,999999999,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Max Growth Amount (MW),613.0384054,613,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-solar thermal,Installed Capacity (MW),0,999999999,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Max Growth Amount (MW),0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-biomass,Installed Capacity (MW),0,999999999,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Max Growth Amount (MW),17.20416078,17.20416078,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-geothermal,Installed Capacity (MW),0,999999999,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Max Growth Amount (MW),2.479331867,2.479331867,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-petroleum,Installed Capacity (MW),0,999999999,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Max Growth Amount (MW),339.2085566,339.2085566,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-natural gas peaker,Installed Capacity (MW),0,999999999,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Max Growth Amount (MW),454.2466314,454.2466314,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-lignite,Installed Capacity (MW),0,999999999,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Max Growth Amount (MW),0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-offshore wind,Installed Capacity (MW),0,999999999,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Max Growth Amount (MW),472,472,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-crude oil,Installed Capacity (MW),0,999999999,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Max Growth Amount (MW),0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-heavy or residual fuel oil,Installed Capacity (MW),0,999999999,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Max Growth Amount (MW),0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-municipal solid waste,Installed Capacity (MW),0,999999999,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Max Growth Amount (MW),8.139602947,8.139602947,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+hard coal,Installed Capacity (MW),0,999999999
+,Max Growth Amount (MW),198,198
+natural gas nonpeaker,Installed Capacity (MW),0,999999999
+,Max Growth Amount (MW),1262,1262
+nuclear,Installed Capacity (MW),0,999999999
+,Max Growth Amount (MW),216.726178,216.726178
+hydro,Installed Capacity (MW),0,999999999
+,Max Growth Amount (MW),9,9.12235757
+wind,Installed Capacity (MW),0,999999999
+,Max Growth Amount (MW),613.0384054,613
+solar PV,Installed Capacity (MW),0,999999999
+,Max Growth Amount (MW),613.0384054,613
+solar thermal,Installed Capacity (MW),0,999999999
+,Max Growth Amount (MW),0,0
+biomass,Installed Capacity (MW),0,999999999
+,Max Growth Amount (MW),17.20416078,17.20416078
+geothermal,Installed Capacity (MW),0,999999999
+,Max Growth Amount (MW),2.479331867,2.479331867
+petroleum,Installed Capacity (MW),0,999999999
+,Max Growth Amount (MW),339.2085566,339.2085566
+natural gas peaker,Installed Capacity (MW),0,999999999
+,Max Growth Amount (MW),454.2466314,454.2466314
+lignite,Installed Capacity (MW),0,999999999
+,Max Growth Amount (MW),0,0
+offshore wind,Installed Capacity (MW),0,999999999
+,Max Growth Amount (MW),613.0384054,613
+crude oil,Installed Capacity (MW),0,999999999
+,Max Growth Amount (MW),0,0
+heavy or residual fuel oil,Installed Capacity (MW),0,999999999
+,Max Growth Amount (MW),0,0
+municipal solid waste,Installed Capacity (MW),0,999999999
+,Max Growth Amount (MW),8.139602947,8.139602947
