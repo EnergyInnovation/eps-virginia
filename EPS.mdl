@@ -38349,11 +38349,11 @@ Revenue changes for fuel-supplying cash flow entities should be the same after a
 22:Year,Years,yr,yrs
 23:0
 15:0,0,0,0,0,0
-19:70,0
+19:100,7
 27:0,
 34:0,
 4:Time
-5:Output Total CO2e Emissions
+5:Cost per Unit New Elec Output[Electricity Source]
 35:Date
 36:YYYY-MM-DD
 37:2000
@@ -38376,6 +38376,7 @@ Revenue changes for fuel-supplying cash flow entities should be the same after a
 57:1
 54:0
 55:0
+82:0
 59:0
 56:0
 58:0
