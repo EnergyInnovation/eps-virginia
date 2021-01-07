@@ -25,3 +25,5 @@ Renewable Portfolio Std Percentage = 0.81
 Share of Preexisting Buildings Subject to Retrofitting[urban residential] = 0.08
 Share of Preexisting Buildings Subject to Retrofitting[rural residential] = 0.08
 Share of Preexisting Buildings Subject to Retrofitting[commercial] = 0.08
+GRA for Carbon Tax Revenue[household taxes] = 9
+GRA for Carbon Tax Revenue[deficit spending] = 11
