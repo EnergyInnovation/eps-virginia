@@ -75,8 +75,6 @@ Industry Sector Fraction of Potential Additional CCS Achieved[iron and steel,ene
 Industry Sector Fraction of Potential Additional CCS Achieved[iron and steel,process emissions] = 0.5
 Industry Sector Fraction of Potential Additional CCS Achieved[chemicals,energy related emissions] = 0.5
 Industry Sector Fraction of Potential Additional CCS Achieved[chemicals,process emissions] = 0.5
-Industry Sector Fraction of Potential Additional CCS Achieved[coal mining,energy related emissions] = 0.5
-Industry Sector Fraction of Potential Additional CCS Achieved[coal mining,process emissions] = 0.5
 Industry Sector Fraction of Potential Additional CCS Achieved[other industries,energy related emissions] = 0.5
 Industry Sector Fraction of Potential Additional CCS Achieved[other industries,process emissions] = 0.5
 Percent of Travel Demand Shifted to Other Modes or Eliminated[passenger,LDVs] = 0.15
