@@ -124,6 +124,102 @@ trans reduce regulated pollutants X motorbikes X OC
 trans reduce regulated pollutants X motorbikes X CH4
 trans reduce regulated pollutants X motorbikes X N2O
 trans reduce regulated pollutants X motorbikes X F gases
+battery PTC psgr vehicles X LDVs X battery electric vehicle
+battery PTC psgr vehicles X LDVs X natural gas vehicle
+battery PTC psgr vehicles X LDVs X gasoline vehicle
+battery PTC psgr vehicles X LDVs X diesel vehicle
+battery PTC psgr vehicles X LDVs X plugin hybrid vehicle
+battery PTC psgr vehicles X LDVs X LPG vehicle
+battery PTC psgr vehicles X LDVs X hydrogen vehicle
+battery PTC psgr vehicles X HDVs X battery electric vehicle
+battery PTC psgr vehicles X HDVs X natural gas vehicle
+battery PTC psgr vehicles X HDVs X gasoline vehicle
+battery PTC psgr vehicles X HDVs X diesel vehicle
+battery PTC psgr vehicles X HDVs X plugin hybrid vehicle
+battery PTC psgr vehicles X HDVs X LPG vehicle
+battery PTC psgr vehicles X HDVs X hydrogen vehicle
+battery PTC psgr vehicles X aircraft X battery electric vehicle
+battery PTC psgr vehicles X aircraft X natural gas vehicle
+battery PTC psgr vehicles X aircraft X gasoline vehicle
+battery PTC psgr vehicles X aircraft X diesel vehicle
+battery PTC psgr vehicles X aircraft X plugin hybrid vehicle
+battery PTC psgr vehicles X aircraft X LPG vehicle
+battery PTC psgr vehicles X aircraft X hydrogen vehicle
+battery PTC psgr vehicles X rail X battery electric vehicle
+battery PTC psgr vehicles X rail X natural gas vehicle
+battery PTC psgr vehicles X rail X gasoline vehicle
+battery PTC psgr vehicles X rail X diesel vehicle
+battery PTC psgr vehicles X rail X plugin hybrid vehicle
+battery PTC psgr vehicles X rail X LPG vehicle
+battery PTC psgr vehicles X rail X hydrogen vehicle
+battery PTC psgr vehicles X ships X battery electric vehicle
+battery PTC psgr vehicles X ships X natural gas vehicle
+battery PTC psgr vehicles X ships X gasoline vehicle
+battery PTC psgr vehicles X ships X diesel vehicle
+battery PTC psgr vehicles X ships X plugin hybrid vehicle
+battery PTC psgr vehicles X ships X LPG vehicle
+battery PTC psgr vehicles X ships X hydrogen vehicle
+battery PTC psgr vehicles X motorbikes X battery electric vehicle
+battery PTC psgr vehicles X motorbikes X natural gas vehicle
+battery PTC psgr vehicles X motorbikes X gasoline vehicle
+battery PTC psgr vehicles X motorbikes X diesel vehicle
+battery PTC psgr vehicles X motorbikes X plugin hybrid vehicle
+battery PTC psgr vehicles X motorbikes X LPG vehicle
+battery PTC psgr vehicles X motorbikes X hydrogen vehicle
+battery PTC frgt vehicles X LDVs X battery electric vehicle
+battery PTC frgt vehicles X LDVs X natural gas vehicle
+battery PTC frgt vehicles X LDVs X gasoline vehicle
+battery PTC frgt vehicles X LDVs X diesel vehicle
+battery PTC frgt vehicles X LDVs X plugin hybrid vehicle
+battery PTC frgt vehicles X LDVs X LPG vehicle
+battery PTC frgt vehicles X LDVs X hydrogen vehicle
+battery PTC frgt vehicles X HDVs X battery electric vehicle
+battery PTC frgt vehicles X HDVs X natural gas vehicle
+battery PTC frgt vehicles X HDVs X gasoline vehicle
+battery PTC frgt vehicles X HDVs X diesel vehicle
+battery PTC frgt vehicles X HDVs X plugin hybrid vehicle
+battery PTC frgt vehicles X HDVs X LPG vehicle
+battery PTC frgt vehicles X HDVs X hydrogen vehicle
+battery PTC frgt vehicles X aircraft X battery electric vehicle
+battery PTC frgt vehicles X aircraft X natural gas vehicle
+battery PTC frgt vehicles X aircraft X gasoline vehicle
+battery PTC frgt vehicles X aircraft X diesel vehicle
+battery PTC frgt vehicles X aircraft X plugin hybrid vehicle
+battery PTC frgt vehicles X aircraft X LPG vehicle
+battery PTC frgt vehicles X aircraft X hydrogen vehicle
+battery PTC frgt vehicles X rail X battery electric vehicle
+battery PTC frgt vehicles X rail X natural gas vehicle
+battery PTC frgt vehicles X rail X gasoline vehicle
+battery PTC frgt vehicles X rail X diesel vehicle
+battery PTC frgt vehicles X rail X plugin hybrid vehicle
+battery PTC frgt vehicles X rail X LPG vehicle
+battery PTC frgt vehicles X rail X hydrogen vehicle
+battery PTC frgt vehicles X ships X battery electric vehicle
+battery PTC frgt vehicles X ships X natural gas vehicle
+battery PTC frgt vehicles X ships X gasoline vehicle
+battery PTC frgt vehicles X ships X diesel vehicle
+battery PTC frgt vehicles X ships X plugin hybrid vehicle
+battery PTC frgt vehicles X ships X LPG vehicle
+battery PTC frgt vehicles X ships X hydrogen vehicle
+battery PTC frgt vehicles X motorbikes X battery electric vehicle
+battery PTC frgt vehicles X motorbikes X natural gas vehicle
+battery PTC frgt vehicles X motorbikes X gasoline vehicle
+battery PTC frgt vehicles X motorbikes X diesel vehicle
+battery PTC frgt vehicles X motorbikes X plugin hybrid vehicle
+battery PTC frgt vehicles X motorbikes X LPG vehicle
+battery PTC frgt vehicles X motorbikes X hydrogen vehicle
+trans PHEV subsidy X passenger X LDVs
+trans PHEV subsidy X passenger X HDVs
+trans PHEV subsidy X passenger X aircraft
+trans PHEV subsidy X passenger X rail
+trans PHEV subsidy X passenger X ships
+trans PHEV subsidy X passenger X motorbikes
+trans PHEV subsidy X freight X LDVs
+trans PHEV subsidy X freight X HDVs
+trans PHEV subsidy X freight X aircraft
+trans PHEV subsidy X freight X rail
+trans PHEV subsidy X freight X ships
+trans PHEV subsidy X freight X motorbikes
 elec renewable portfolio standards X
 elec ban new power plants X hard coal es
 elec ban new power plants X natural gas nonpeaker es
