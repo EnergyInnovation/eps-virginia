@@ -1,0 +1,5 @@
+Additional EV Subsidy Percentage[passenger,LDVs] = 5710.99
+Additional PHEV Subsidy[passenger,LDVs] = 4968.87
+Passenger Vehicle Cost Reduction due to Battery Production Credit[LDVs,battery electric vehicle] = 1740.04
+Passenger Vehicle Cost Reduction due to Battery Production Credit[LDVs,plugin hybrid vehicle] = 358.95
+Policy Implementation Schedule Selector = 5
