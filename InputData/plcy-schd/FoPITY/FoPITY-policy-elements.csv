@@ -47,8 +47,32 @@ trans ZEV minimum X freight X HDVs
 trans ZEV minimum X freight X aircraft
 trans ZEV minimum X freight X rail
 trans ZEV minimum X freight X ships
-trans ZEV minimum X freight X motorbikes
 trans non BAU ZEV vehicle definitions X
+trans ZEV minimum X freight X motorbikes
+trans EV minimum X passenger X LDVs
+trans EV minimum X passenger X HDVs
+trans EV minimum X passenger X aircraft
+trans EV minimum X passenger X rail
+trans EV minimum X passenger X ships
+trans EV minimum X passenger X motorbikes
+trans EV minimum X freight X LDVs
+trans EV minimum X freight X HDVs
+trans EV minimum X freight X aircraft
+trans EV minimum X freight X rail
+trans EV minimum X freight X ships
+trans EV minimum X freight X motorbikes
+trans hydrogen vehicle minimum X passenger X LDVs
+trans hydrogen vehicle minimum X passenger X HDVs
+trans hydrogen vehicle minimum X passenger X aircraft
+trans hydrogen vehicle minimum X passenger X rail
+trans hydrogen vehicle minimum X passenger X ships
+trans hydrogen vehicle minimum X passenger X motorbikes
+trans hydrogen vehicle minimum X freight X LDVs
+trans hydrogen vehicle minimum X freight X HDVs
+trans hydrogen vehicle minimum X freight X aircraft
+trans hydrogen vehicle minimum X freight X rail
+trans hydrogen vehicle minimum X freight X ships
+trans hydrogen vehicle minimum X freight X motorbikes
 trans reduce EV range anxiety and charging time X
 trans EV charger deployment X
 trans LCFS X
@@ -1370,6 +1394,48 @@ RnD transportation capital cost reduction X diesel vehicle
 RnD transportation capital cost reduction X plugin hybrid vehicle
 RnD transportation capital cost reduction X LPG vehicle
 RnD transportation capital cost reduction X hydrogen vehicle
+RnD transportation capital cost reduction X LDVs X battery electric vehicle
+RnD transportation capital cost reduction X LDVs X natural gas vehicle
+RnD transportation capital cost reduction X LDVs X gasoline vehicle
+RnD transportation capital cost reduction X LDVs X diesel vehicle
+RnD transportation capital cost reduction X LDVs X plugin hybrid vehicle
+RnD transportation capital cost reduction X LDVs X LPG vehicle
+RnD transportation capital cost reduction X LDVs X hydrogen vehicle
+RnD transportation capital cost reduction X HDVs X battery electric vehicle
+RnD transportation capital cost reduction X HDVs X natural gas vehicle
+RnD transportation capital cost reduction X HDVs X gasoline vehicle
+RnD transportation capital cost reduction X HDVs X diesel vehicle
+RnD transportation capital cost reduction X HDVs X plugin hybrid vehicle
+RnD transportation capital cost reduction X HDVs X LPG vehicle
+RnD transportation capital cost reduction X HDVs X hydrogen vehicle
+RnD transportation capital cost reduction X aircraft X battery electric vehicle
+RnD transportation capital cost reduction X aircraft X natural gas vehicle
+RnD transportation capital cost reduction X aircraft X gasoline vehicle
+RnD transportation capital cost reduction X aircraft X diesel vehicle
+RnD transportation capital cost reduction X aircraft X plugin hybrid vehicle
+RnD transportation capital cost reduction X aircraft X LPG vehicle
+RnD transportation capital cost reduction X aircraft X hydrogen vehicle
+RnD transportation capital cost reduction X rail X battery electric vehicle
+RnD transportation capital cost reduction X rail X natural gas vehicle
+RnD transportation capital cost reduction X rail X gasoline vehicle
+RnD transportation capital cost reduction X rail X diesel vehicle
+RnD transportation capital cost reduction X rail X plugin hybrid vehicle
+RnD transportation capital cost reduction X rail X LPG vehicle
+RnD transportation capital cost reduction X rail X hydrogen vehicle
+RnD transportation capital cost reduction X ships X battery electric vehicle
+RnD transportation capital cost reduction X ships X natural gas vehicle
+RnD transportation capital cost reduction X ships X gasoline vehicle
+RnD transportation capital cost reduction X ships X diesel vehicle
+RnD transportation capital cost reduction X ships X plugin hybrid vehicle
+RnD transportation capital cost reduction X ships X LPG vehicle
+RnD transportation capital cost reduction X ships X hydrogen vehicle
+RnD transportation capital cost reduction X motorbikes X battery electric vehicle
+RnD transportation capital cost reduction X motorbikes X natural gas vehicle
+RnD transportation capital cost reduction X motorbikes X gasoline vehicle
+RnD transportation capital cost reduction X motorbikes X diesel vehicle
+RnD transportation capital cost reduction X motorbikes X plugin hybrid vehicle
+RnD transportation capital cost reduction X motorbikes X LPG vehicle
+RnD transportation capital cost reduction X motorbikes X hydrogen vehicle
 RnD electricity capital cost reduction X hard coal es
 RnD electricity capital cost reduction X natural gas nonpeaker es
 RnD electricity capital cost reduction X nuclear es
